@@ -26,3 +26,5 @@ This is the **Restaurant Review App** created for the Udacity Front-End Develope
 1. [Udacity starter kit](https://github.com/udacity/mws-restaurant-stage-1)
 
 2. Matthew Cranford's guide to [Service Workers](https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-4-service-workers/)
+
+3. Accessible Color Palettes [COLORSAFE](http://colorsafe.co/)
