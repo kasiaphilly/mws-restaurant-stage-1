@@ -28,3 +28,5 @@ This is the **Restaurant Review App** created for the Udacity Front-End Develope
 2. Matthew Cranford's guide to [Service Workers](https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-4-service-workers/)
 
 3. Accessible Color Palettes [COLORSAFE](http://colorsafe.co/)
+4. [CSS beautifier](https://www.cleancss.com/css-beautify/)
+5. [JavaScript beautifier](https://www.danstools.com/javascript-beautify/)
